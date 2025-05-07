@@ -33,14 +33,14 @@ Setelah model terbaik dipilih, dilakukan **deployment menggunakan Streamlit**, s
 Berikut langkah-langkah untuk menjalankan aplikasi klasifikasi cuaca menggunakan **Streamlit**:
 
 ### 1. Clone repositori atau salin file proyek:
-<pre> ```git clone https://github.com/meutiaaini/UAS.git 
-      cd nama-repo ``` </pre>
+<pre> git clone https://github.com/meutiaaini/UAS.git 
+      cd nama-repo </pre>
 
 ### 2. Instal semua dependensi yang dibutuhkan:
-<pre> ```pip install -r requirements.txt ``` </pre>
+<pre> pip install -r requirements.txt </pre>
 
 ### 3. Jalankan aplikasi Streamlit:
-<pre> ```streamlit run streamlit_app.py``` </pre>
+<pre> streamlit run streamlit_app.py </pre>
 
 💡 Fitur Aplikasi
 Upload gambar cuaca melalui antarmuka web.

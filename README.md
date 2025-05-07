@@ -34,7 +34,7 @@ Berikut langkah-langkah untuk menjalankan aplikasi klasifikasi cuaca menggunakan
 
 ### 1. Clone repositori atau salin file proyek:
 <pre> git clone https://github.com/meutiaaini/UAS.git
-      cd UAS </pre>
+cd UAS </pre>
 
 ### 2. Instal semua dependensi yang dibutuhkan:
 <pre> pip install -r requirements.txt </pre>

@@ -1,4 +1,6 @@
 Pembagian Tugas
 - Pengerjaan ipynb dan streamlit UAS: Iffatun Nisa Nasrullah
 - Clone GitHub: Meutia Aini
-- 
+- Penulisan deskripsi proyek dan tujuan, Pembuatan materi presentasi PowerPoint,  Implementasi stremlit : Fazhira Rizky Harmayani
+- Analisis tantangan dan solusi dalam presentasi, Rekomendasi pengembangan lanjutan aplikasi : Nuri Masyithah
+- Penyiapan slide kesimpulan dan arsitektur system lengkap : Alvia Zuhra
